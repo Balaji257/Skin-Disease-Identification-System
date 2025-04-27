@@ -6,11 +6,12 @@ Link : https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
                                                                                                                                                                                                                       # Step 2 
                                                                                                                                                                                                                       Install the libraries if not installed.(on cmd - pip install tensorflow keras numpy pandas matplotlib scikit-learn pillow)
                                                                                                                                                                                                                         
-#Step 3 
+# Step 3 
 put all the code and first train the model.
 cmd - python backend/model/train_model.py
 
-#Setp 4 
+# Setp 4 
 Then Run the app.py to start the server.
-#step 5 
+
+# step 5 
 After run the HTML code by double clicking it.
